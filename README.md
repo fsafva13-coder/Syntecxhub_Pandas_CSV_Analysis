@@ -39,7 +39,7 @@ The dataset is auto-generated within the notebook, no external file needed.
 ## 📸 Screenshots
 
 ### DataFrame Inspection - head()
-
+<img width="1265" height="293" alt="Image" src="https://github.com/user-attachments/assets/c948b893-1a3b-497d-8690-31f376b185f7" />
 
 ### Summary Statistics - describe()
 
