@@ -42,13 +42,13 @@ The dataset is auto-generated within the notebook, no external file needed.
 <img width="1265" height="293" alt="Image" src="https://github.com/user-attachments/assets/c948b893-1a3b-497d-8690-31f376b185f7" />
 
 ### Summary Statistics - describe()
-
+<img width="668" height="335" alt="Image" src="https://github.com/user-attachments/assets/a3628b4e-1421-4b7d-ba67-430e56a7d1d6" />
 
 ### Grouped Stats by Department
-
+<img width="530" height="317" alt="Image" src="https://github.com/user-attachments/assets/0d7ac549-d719-49a8-a784-d01831ee6bf6" />
 
 ### Filtering - CS Students with Grade A
-
+<img width="423" height="283" alt="Image" src="https://github.com/user-attachments/assets/63ad5b64-bf86-41b0-85fd-9cbfc537c39a" />
 
 ---
 
